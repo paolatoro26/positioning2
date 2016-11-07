@@ -1,1 +1,24 @@
-/* Inserta tu CSS aqui */
+.uno{
+	width: 200px;
+	height:200px;
+	background-color: red;
+	position: static; }
+
+.dos{
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	position:relative;
+	left: 50px;
+	top:50px; }
+
+.tres{
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+	position: absolute;
+	top: 0;
+	left: 0
+}
+a{list-style: none;
+color:black;}
